@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lori.iml" filepath="$PROJECT_DIR$/Lori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lori-app/lori-app.iml" filepath="$PROJECT_DIR$/lori-app/lori-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lori-app-server-api/lori-app-server-api.iml" filepath="$PROJECT_DIR$/lori-app-server-api/lori-app-server-api.iml" />
+    </modules>
+  </component>
+</project>

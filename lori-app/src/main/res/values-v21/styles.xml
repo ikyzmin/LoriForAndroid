@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="LoriAppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="colorControlNormal">?colorAccent</item>
+        <item name="colorControlActivated">?colorAccent</item>
+        <item name="buttonStyle">@style/LoriApp.Button</item>
+
+    </style>
+
+</resources>
